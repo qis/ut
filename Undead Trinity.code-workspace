@@ -1,0 +1,23 @@
+{
+  "extensions": {
+    "recommendations": [
+      "joelday.papyrus-lang-vscode"
+    ]
+  },
+  "folders": [
+    {
+      "name": "Undead Trinity",
+      "path": "Scripts/Source"
+    }
+  ],
+  "settings": {
+    "papyrus.skyrimSpecialEdition.enabled": true,
+    "papyrus.fallout4.enabled": false,
+    "papyrus.skyrim.enabled": false,
+    "files.exclude": {
+      "**/[^U]*": true,
+      "**/U[^T]*": true,
+      "**/UT[^_]*": true
+    }
+  }
+}

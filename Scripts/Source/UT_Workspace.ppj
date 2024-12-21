@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<PapyrusProject
+  xmlns="PapyrusProject.xsd"
+  Flags="TESV_Papyrus_Flags.flg"
+  Game="sse"
+  Output="Scripts"
+  Optimize="true"
+  Release="false"
+  Final="false">
+  <Variables>
+    <Variable Name="ModName" Value="Undead Trinity" />
+  </Variables>
+  <Imports>
+    <Import>.</Import>
+  </Imports>
+  <Folders>
+    <Folder>.</Folder>
+  </Folders>
+</PapyrusProject>

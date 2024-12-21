@@ -1,0 +1,3 @@
+* text=lf
+*.cmd text=crlf
+*.psc text=crlf
